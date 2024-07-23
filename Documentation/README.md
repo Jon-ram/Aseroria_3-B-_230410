@@ -1,6 +1,6 @@
 # Documentacion ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-En esta seccion se ubicaran los archivos que respalda el analisis previo al diseño de la aplicacion web.
+En esta seccion se ubicaran los archivos que respaldaran el analisis previo al diseño de la aplicacion web.
 
 ## Estructura de Archivos
 
